@@ -6,3 +6,5 @@ Sob supervisão da professora Marcela Ribeiro
  	- Lucca Couto Barberato (800257) - Ciência da Computação
  	- Lucca Renato Guerino (800224) - Engenharia de Computação
 	- Rodrigo Takizawa Yamauchi (800226) - Engenharia de Computação
+	
+Nota final atribuída: 9.5/10 (nota comparativa com os outros projetos)
